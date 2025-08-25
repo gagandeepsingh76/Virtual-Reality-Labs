@@ -10,9 +10,9 @@ Instructions.pdf – Step-by-step guide to set up and run the projects.
 
 ## 🎯 Purpose
 Perfect for:
--Students and educators seeking immersive learning experiences
--Researchers exploring virtual lab simulations
--Anyone interested in interactive VR environments
+-Students and educators seeking immersive learning experiences -
+-Researchers exploring virtual lab simulations -
+-Anyone interested in interactive VR environments -
 
 ## 🔗 Access Projects
  - **CRO Project:** - [psit-virtual-lab.vercel.app](https://psit-virtual-lab.vercel.app/)
