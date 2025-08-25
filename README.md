@@ -15,6 +15,6 @@ Perfect for:
 -Anyone interested in interactive VR environments -
 
 ## 🔗 Access Projects
- - **CRO Project:** - [psit-virtual-lab.vercel.app](https://psit-virtual-lab.vercel.app/)
+ - **CRO Project:** - [CRO](https://drive.google.com/file/d/1OcSjK8_omu3lz9184jj5JYHWSEdJFXKC/view?usp=sharing)
  - **Smart Classroom Project:** - [psit-virtual-lab.vercel.app](https://psit-virtual-lab.vercel.app/)
  - **Virtual Reality IIT Kanpur Lab:** - [psit-virtual-lab.vercel.app](https://psit-virtual-lab.vercel.app/)
