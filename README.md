@@ -3,9 +3,9 @@ A curated collection of immersive Virtual Reality projects designed for educatio
 
 ## 🔗 Access Projects
 - **CRO** –  [CRO](https://drive.google.com/file/d/1OcSjK8_omu3lz9184jj5JYHWSEdJFXKC/view?usp=sharing)
-- **Visual Demonstration** - [🎥](https://drive.google.com/file/d/1u0ZEHvmoQPvIYj3I5O_xuUTNpWN410FQ/view?usp=sharing)
+  - **Visual Demonstration** - [🎥](https://drive.google.com/file/d/1u0ZEHvmoQPvIYj3I5O_xuUTNpWN410FQ/view?usp=sharing)
 - **SmartClassroom** –  [Smart Classroom](https://drive.google.com/file/d/1Eb-sTAdU7UFkXYz5CXFP51S3ISNP-MaN/view?usp=sharing)
-- **Visual Demonstration** - [🎥](https://drive.google.com/file/d/1BhAIUnm3aceQny38VEtraWgMsoiXq1Tc/view?usp=sharing)
+  - **Visual Demonstration** - [🎥](https://drive.google.com/file/d/1BhAIUnm3aceQny38VEtraWgMsoiXq1Tc/view?usp=sharing)
 
 
 ## 📂 Project Structure
