@@ -12,7 +12,8 @@ A curated collection of immersive Virtual Reality projects designed for educatio
 - **CRO** – Clinical Research Operations virtual environment for workflow simulation.
 - **SmartClassroom** – Interactive smart classroom simulation for immersive learning.
 
-Instructions.pdf – Step-by-step guide to set up and run the projects.
+Instructions PDF** – Includes APK/ABK download links and step-by-step setup instructions:  
+[VR_Instructions_RealityLabs.pdf]
 
 ## 🎯 Purpose
 Perfect for:
